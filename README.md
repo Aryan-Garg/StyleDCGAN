@@ -3,12 +3,11 @@
 *Aryan Garg*
 
 ```
-@misc{garg2024parameter,
-      title={Parameter and Data-Efficient Spectral StyleDCGAN}, 
-      author={Aryan Garg},
-      year={2024},
-      eprint={2404.00597},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{garg2024parameter,
+  title={Parameter and Data Efficient Spectral Style-{DCGAN}},
+  author={Aryan Garg},
+  booktitle={The Second Tiny Papers Track at ICLR 2024},
+  year={2024},
+  url={https://openreview.net/forum?id=JQlfTmlHNz}
 }
 ```
